@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mainFirst{
+    height: 90vh;
+    width: 100%;
+    background-color: black;
+    background-image: url(./main6.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+ 
+} 
+.a1{
+    text-decoration: none;
+    color: rgb(209, 120, 12);
+}
+.divFirst{
+    height: 60px;
+    width: 100%;
+    color: rgb(231, 168, 85);
+    background-color: black;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+    list-style:none;
+    font-size: x-large;
+    position: fixed;
+}
+.a1:hover{
+    color: aqua ;
+    transition: 1s;
+}
+.divSecond{
+    height: 80vh;
+    width: 70%;
+    background-color: transparent;
+    color: rgb(224, 136, 28);
+    margin-top: 0px;
+}
+h1{
+    color: rgb(235, 133, 9);
+    font-size: 90px;
+    font-weight: bolder;
+    text-align: center;
+}
+p1{
+
+    display: flex;
+    font-size: 60px;
+    font-weight:900;
+    justify-content: center;
+    text-align: center;
+    color:rgb(137, 141, 96);
+}
+.mainSecond{
+    height: 90vh;
+    width: 100%;
+    background-color: rgb(78, 75, 75);
+}
+.head1{
+    height: 18%;
+    width: 100%;
+    /* background-color: cadetblue; */
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+}
+.col1{
+    height: 40%;
+    width: 100%;
+    background-color: rgb(73, 67, 60);
+    text-align: center;
+    display:flex;
+    border-radius: 40%;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+}
+.col2{
+    height: 190%;
+    width: 100%;
+    background-color:rgb(218, 184, 75) ;
+    display: flex;
+    flex-direction: column;
+
+}
+p{
+    color: rgb(75, 64, 52);
+    font-size: 29px;
+    text-align: center;
+    align-items: center;
+    font-weight: bolder;
+
+}
+.mainThird{
+    height: 185vh;
+    width: 100%;
+    background-color: lightcyan;
+}
+div{
+    color:black;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.education{
+    height: 100%;
+    width: 100%;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+
+}
+fieldset{
+    border:3px   double rgb(152, 184, 224);
+    color: black;
+    font-size:large;
+    font-weight: bold;
+    line-height: 180%;
+    height: 30%;
+    width: 90%;
+    align-items: center;
+    border-collapse: collapse;
+    text-align: center;
+}
+legend{
+    font-size: large;
+    font-weight: bold;
+    color: black;
+}
+.head4{ 
+    color: rgb(176, 62, 81);
+    font-size: 150%;
+}
+.a2{
+    color: pink;
+    font-weight: bolder;
+    font-size:100px;
+}
+.mainFourth{
+    height: 80Vh;
+    width: 100%;
+    background-color: black;
+}
+.contact1{
+    height: 40%;
+    width: 100%;
+    color: rgb(100, 98, 95);
+    font-size: 50px;
+    font-weight: bolder;
+}
+.p4{
+    height: 50%;
+    width: 100%;
+    color: beige;
+    text-align: center;
+    justify-content: center;
+    font-style: italic;
+    font-size: 250%;
+}
+a{
+    color: cornsilk;
+    font-size:x-large;
+}
